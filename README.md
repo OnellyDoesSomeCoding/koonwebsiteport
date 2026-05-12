@@ -1,10 +1,13 @@
 # Hyper Teal Markup Language Website
 
+URL: https://koonwebsiteport.vercel.app/
+
 A small static website built with HTML and CSS, ready to deploy on Vercel.
 
 ## Important Note
 
 Original repository by: https://github.com/koonratchaphruek1/websiteport
+
 Rehosted on my repository due to Vercel's problem with Microsoft Family security system. You may refer to the original project via this link.
 
 ## Project Overview
